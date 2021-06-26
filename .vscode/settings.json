@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.kt": "kotlin",
+        "stdlib.h": "c"
+    }
+}
